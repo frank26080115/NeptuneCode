@@ -53,8 +53,8 @@ namespace NeptuneCoolingManager
 
         public class TrayAppContext : ApplicationContext
         {
-            private const int VendorId = 0x16C0;
-            private const int ProductId = 0x0486;
+            private const int VendorId = 0x12BA;
+            private const int ProductId = 0x3333;
 
             private const float motherboard_temperature_limit = 50.0f;
             private const float motherboard_temperature_hysteresis = 5.0f;
